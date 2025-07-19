@@ -4,7 +4,6 @@
 ## I'm a Self-taught Developer, and Data Scientist.
 
 - 🌱 I’m mainly interested in Machine Learning and Bioinformatics.
-- 🥅 2021 Goals: Contribute more to Open Source projects, Computer Vision and Bioinformatics Projects.
 - ⚡ Fun fact: I am also a Pharmacist.
 
 
