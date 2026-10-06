@@ -1,29 +1,27 @@
-### Hi there, I'm Ammar Yasser 👋
+# Ammar Haggag
 
+Pharmacist moving into bioinformatics and machine learning engineering.
 
-## I'm a Self-taught Developer, and Data Scientist.
+## About me
 
-- 🌱 I’m mainly interested in Machine Learning and Bioinformatics.
-- ⚡ Fun fact: I am also a Pharmacist.
+- Community pharmacist with the Egyptian Ministry of Health. B.Pharm, Zagazig University.
+- Freelance AI evaluation specialist: model training data, red teaming, rubric design and benchmark task authoring for frontier language models.
+- Now building software engineering skills through real projects rather than tutorials.
 
+## Current project
 
-### Connect with me:
+**[variant-pipeline](https://github.com/ammaryh92/variant-pipeline)**: a backend pipeline for genomic variant analysis. It parses VCF files, stores variants in PostgreSQL, annotates them from ClinVar and dbSNP, and exposes results through a REST API. Built phase by phase, with tests, type checking and CI. *In early development.*
 
-[<img align="left" alt="ammaryh92 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ammaryh92 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Tools
 
-<br />
+**Working with:** Python (pandas, NumPy, statsmodels, requests, pytest), SQL (MySQL), Git, Linux
 
-### Languages and Tools:
+**Learning:** PostgreSQL, async I/O, FastAPI, Docker, type checking with mypy, computer systems fundamentals
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]<br />
+## Contact
 
-[twitter]: https://twitter.com/ammaryh92
-[linkedin]:https://www.linkedin.com/in/ammar-haggag
+- Email: ammar.yh92@gmail.com
+- LinkedIn: [linkedin.com/in/ammar92](https://www.linkedin.com/in/ammar92)
+- X: [@ammaryh92](https://x.com/ammaryh92)
+
+Based in Egypt. Arabic (native) and English.
